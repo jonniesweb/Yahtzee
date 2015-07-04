@@ -6,3 +6,5 @@ The purpose of this project was to practice using threads and sockets to support
 #### Usage
 Compile a client jar and a server jar.
 Launch the jars and follow the dialogs to play.
+
+# No pull requests please!
